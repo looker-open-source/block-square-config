@@ -1,4 +1,4 @@
-# block-square-config
+# Square Block Config
 
 
 #### Understand more about how your customers pay with the Square block.
